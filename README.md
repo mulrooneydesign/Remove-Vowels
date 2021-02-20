@@ -1,7 +1,7 @@
 A javascript function that can be used to remove a, e, i , o, u from a String .
 
-##What happens when I use the function on a String?
+## What happens when I use the function on a String?
 removeVowels("A javascript function that can be used to remove a, e, i , o, u from a String .")
 
-Will return:
+## Will return:
 " jvscrpt fnctn tht cn b sd t rmv , ,  , ,  frm  Strng ."
